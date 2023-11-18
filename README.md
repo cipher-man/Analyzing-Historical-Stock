@@ -1,1 +1,1 @@
-# Analyzing-Historical-Stock
+Small Python Data Science Project
